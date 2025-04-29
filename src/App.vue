@@ -15,7 +15,7 @@ const {
     <div class="title-container">
       <h1 class="title">Учетные записи</h1>
       <button class="add-button" @click="addAccountForm">
-        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" class="plus-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="plus-icon">
           <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M12 5v14"></path>
             <path d="M5 12h14"></path>
@@ -24,7 +24,7 @@ const {
       </button>
     </div>
     <div class="description-container">
-      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 16" class="question-icon">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="question-icon">
         <g fill="none">
           <path d="M8 2a6 6 0 1 1 0 12A6 6 0 0 1 8 2zm0 1a5 5 0 1 0 0 10A5 5 0 0 0 8 3zm0 7.5A.75.75 0 1 1 8 12a.75.75 0 0 1 0-1.5zm0-6a2 2 0 0 1 2 2c0 .73-.212 1.14-.754 1.708l-.264.27C8.605 8.87 8.5 9.082 8.5 9.5a.5.5 0 0 1-1 0c0-.73.212-1.14.754-1.708l.264-.27C8.895 7.13 9 6.918 9 6.5a1 1 0 0 0-2 0a.5.5 0 0 1-1 0a2 2 0 0 1 2-2z" fill="currentColor"></path>
         </g>
